@@ -1,0 +1,7 @@
+0	Pardavëjas
+1	Pirkëjas
+2	Sortimento pavadinimas
+3	Ruðies pavadinimas
+4	Kokybës klasë
+5	Stambumo klasë
+6	Ilgio klase,m
