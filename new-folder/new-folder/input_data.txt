@@ -1,1 +1,0 @@
-{'Sortimento pavadinimas': 'Plokðèiø mediena', 'Ruðies pavadinimas': 'lapuoèiai', 'Kokybës klasë': 'C', 'Stambumo klasë': 'Vd 20-31', 'Ilgio klase': 'L1: 2.4-3.0'}
